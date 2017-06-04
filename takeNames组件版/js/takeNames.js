@@ -1,5 +1,5 @@
 // 保存名字
-var names = ['程亚兰', '王月', '王旭', '王凯', '孙刚勇', '桑海斌', '范本杰', '罗婷', '樊朝强', '李鑫', '杨巍', '何梦丹', '沈乾', '张琪', '康晓宇', '连园园', '耿树正', '黄丹娣', '李博文', '孙瑞', '刘兴鹏', '李强', '王小雨', '第五岚岚', '钱亨利', '王运通', '肖旭明', '陈咏欣', '姚梅梅', '贾魁', '郭萌萌', '齐巍', '索宇航', '牛磊', '梁晨', '王安东', '郭亮', '穆晓平', '王海荣', '黄安', '刘欢', '刘琼', '杨子', '田鹏江', '马炜', '张新龙', '杨家松', '李丹'];
+var names = ['Lily', 'Lucy', 'Tom', 'Tommy', 'Sam', 'Sammy', 'luke', 'Alice', 'Jim', 'Jimmy', 'Edsion', 'Roy', 'Joy', 'June', 'Sun', 'Sunny', 'Stone', 'Lee', 'Steve', 'Steven', 'Sally', 'Belly', 'Bunny', 'Jasmine', 'Alina', 'Ella', 'Selina', 'Tella', 'May', 'Helen', 'Ann', 'April', 'Cindy', 'Cathy', 'Cherry', 'Sherry', 'Chris', 'Cora', 'Dona', 'Anny', 'Leo', 'Frank', 'Frankie', 'Eve', 'Eva', 'Fanny', 'Jack', 'Jackie'];
 // 为避免全局污染，写成面向对象形式，写成变量形式；
 var takingName = {
 	timer: null,
