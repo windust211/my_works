@@ -55,33 +55,33 @@
      toAnimate(aLi);
      // 左方向点击；
      oBtnLeft.onclick = function() {
-        if(flag){
-            flag = false;
-            config.push(config.shift());
-            toAnimate(aLi);
-        }
+         if (flag) {
+             flag = false;
+             config.push(config.shift());
+             toAnimate(aLi);
+         }
      }
      // 右方向点击；
-     oBtnRight.onclick = function (){
-        if(flag){
-            flag = false;
-            config.unshift(config.pop());
-            toAnimate(aLi);
-        }
+     oBtnRight.onclick = function() {
+         if (flag) {
+             flag = false;
+             config.unshift(config.pop());
+             toAnimate(aLi);
+         }
      }
 
-// 动画执行,跨作用域不能修改值；
-    function toAnimate(objArr) {
-       for (var i = 0; i < objArr.length; i++) {
-            animate(objArr[i], {
-             'width': config[i].width,
-             'top': config[i].top,
-             'left': config[i].left,
-             'opacity': config[i].opacity,
-             'zIndex': config[i].zIndex
-            },function (){flag =  true})
+     // 动画执行,跨作用域不能修改值；
+     function toAnimate(objArr) {
+         for (var i = 0; i < objArr.length; i++) {
+             animate(objArr[i], {
+                 'width': config[i].width,
+                 'top': config[i].top,
+                 'left': config[i].left,
+                 'opacity': config[i].opacity,
+                 'zIndex': config[i].zIndex
+             }, function() {
+                 flag = true
+             })
          }
-    }
+     }
  }
-
-

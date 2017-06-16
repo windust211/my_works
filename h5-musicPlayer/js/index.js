@@ -195,8 +195,7 @@ $(function() {
                 }
             })
         },
-        switchPlayOrder: function() {
-        }
+        switchPlayOrder: function() {}
     });
     // 初始化调用
     new MyMusic();
