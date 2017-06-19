@@ -28,7 +28,7 @@
     + A collection of clocks
     + Including:
         -  Digital, quartz, matic
-    + See at:]
+    + See at:
          -  [matic](https://windust211.github.io/my_works/myClock/%E6%9C%BA%E6%A2%B0%E8%A1%A8.html)
          -  [quartz](https://windust211.github.io/my_works/myClock/%E7%9F%B3%E8%8B%B1%E9%92%9F.html)
          -  [digital](https://windust211.github.io/my_works/myClock/%E7%94%B5%E5%AD%90%E8%A1%A8.html)
