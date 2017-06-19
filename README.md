@@ -11,11 +11,11 @@
 5. animate 
     + An encapsulation of animation including left,top,width,height,opacity,zIndex etc.
     + Totally coded in native js;
-    + See at: [animate](https://windust211.github.io/my_works/旋转的木马/)
+    + See at:  [animate](https://windust211.github.io/my_works/旋转的木马/)
 6. h5 music player
     + Functions completed:
         - Play, pause, next previous,muted;
-        - Lyrics display synchronously;
+        - Lyrics display synchronously;
         - Using fake data for ajax request and page rendering 
         - Progress bar
     + Functions to be completed:
@@ -27,10 +27,10 @@
   7. myClock
     + A collection of clocks
     + Including:
-       * Digital, quartz, matic
-    + See at:
-       * [matic](https://windust211.github.io/my_works/myClock/%E6%9C%BA%E6%A2%B0%E8%A1%A8.html);
-       * [quartz](https://windust211.github.io/my_works/myClock/%E7%9F%B3%E8%8B%B1%E9%92%9F.html);
-       * [digital](https://windust211.github.io/my_works/myClock/%E7%94%B5%E5%AD%90%E8%A1%A8.html)
+        -  Digital, quartz, matic
+    + See at:]
+         -  [matic](https://windust211.github.io/my_works/myClock/%E6%9C%BA%E6%A2%B0%E8%A1%A8.html)
+         -  [quartz](https://windust211.github.io/my_works/myClock/%E7%9F%B3%E8%8B%B1%E9%92%9F.html)
+         -  [digital](https://windust211.github.io/my_works/myClock/%E7%94%B5%E5%AD%90%E8%A1%A8.html)
  
 
